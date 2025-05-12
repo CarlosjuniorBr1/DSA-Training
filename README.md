@@ -1,4 +1,4 @@
-# 🧠 Grupo de Estudos – LeetCode (com amigos da faculdade)
+# 🧠 Grupo de Estudos – LeetCode 
 
 Este repositório documenta os estudos semanais realizados por um grupo de **amigos da faculdade**, com o objetivo de praticar e evoluir juntos na resolução de problemas do [LeetCode](https://leetcode.com/), focando em desenvolvimento técnico e preparação para entrevistas da área de tecnologia.
 
